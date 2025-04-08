@@ -1,0 +1,26 @@
+body{
+  padding: 25px;
+  background-color: #fff9de
+  font-family: Georgia;
+  };
+}
+.title {
+	color: #a1747e;
+}
+h3 {
+  color:#521221;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: #f52a3b;
+  padding: 10px 20px 10px 20px;
+}
+p {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-color: Green
+  ;
+  font-family: Consolas;
+  color: #131c11;
+  background-color: #48823b;
+  padding: 10px 20px 10px 20px;
+}
